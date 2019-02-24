@@ -1,0 +1,3 @@
+[submodule "Cross-window"]
+	path = Cross-window
+	url = https://github.com/theitsloth/Cross-window.git
